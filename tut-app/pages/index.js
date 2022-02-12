@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <p>Ready to fly</p>
+        <p>Ready to fly - But bugs are weighing on my wings</p>
       </main>
     </div>
   );
